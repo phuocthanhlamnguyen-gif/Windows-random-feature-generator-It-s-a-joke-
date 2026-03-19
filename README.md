@@ -1,1 +1,1 @@
-I'm a kid learning python and I use Linux because of Windows 11 bad things, but my dad force me to use Win 11 so I make this harmless joke
+I'm a kid(Grade 5) learning Python and C, and I use Linux because of Windows 11's bad things, but my dad forces me to use Windows 11, so I make this harmless joke
